@@ -1,0 +1,85 @@
+1. Fra JS til C#
+2. Grunnleggende OO(ObjektOrientert) og C#
+4. Bonuspensum (ASP .NET, backend, SQL, fullstack)
+3. Videregående OO(ObjektOrientert)
+    - Hopp over denne vis du sliter mye med 1, 2 og 4. Og heler fokuser med på de.
+
+
+Resharper - Rider
+
+Del 1
+
+Fra JS til C#
+    C# er kompilert, JS er ikke
+    C# er sterkt typa, JS er soft typa
+
+Kompelering oversetter C# språket til noe pcen forstår
+
+Node.js
+    - kan bruke JS utenfor nettlesern
+
+Webasembly 
+    - kan bruke språk som ikke er JS i nettlesern
+
+Highlevel vs Lowlevel programering
+    - highlevel er mer menskelig leslig skrevet og leslig
+    - lowlevel er skrevet mer på hvordan pc forstår koden
+
+
+Del 2 
+
+Begynner å forklare om C# koding
+
+JS : function main(args){}
+C# : static void Main(strings[] args){}
+
+Må si hvordan data type args-en skal være
+
+void
+    - hvilken data type returnerer denne metoden
+    - funksjonen returnerer ingen ting
+
+int
+    - funksjonen skal returnere en int
+
+static
+    - Går dyppere inn i dette senere
+
+Del 3
+
+Hva han planer å gå gjennom vis han har tid:
+    Class 
+    Namespace
+    Metoder i andre klasser
+    GitHub
+    Resharper
+
+    Han rakk ikke disse:
+        Top-level statements
+        Deviktigste datatypene
+        var
+
+
+Class
+    - en mal for et Objekt
+    - en slags modul du kan ha kode i
+    - et program starter med at main blir kalt
+
+Console.Write() - skriver noe i terminalen
+Console.ReadLine() - venter på at du skriver noe i terminalen
+
+Husk å forsette å bruke DRY-prinsipet
+
+Namespace
+    - Mapper i pcen er en type Namespace
+    - Endrer ikke oppførselen til classen, er bare for å finne classen
+    - using navntilNamespace
+        - for å bruke ting som ligger i andre Namespace
+
+Public
+    - denne metoden er tilgjenlig utenfor classen
+
+Private
+    - forklarer snart
+
+Viste hvordan man brukte GitHub desktop til å pushe opp C# prosjekter
