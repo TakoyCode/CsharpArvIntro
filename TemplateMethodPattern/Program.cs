@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Pseudo code for å vise fram arv
+
+            var chocolateCake = new ChocolateCake();
+            chocolateCake.Make();
         }
     }
 }

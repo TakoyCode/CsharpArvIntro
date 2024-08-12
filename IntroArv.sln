@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers.Library", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreAboutArv", "MoreAboutArv\MoreAboutArv.csproj", "{94AC2E72-8AF9-4258-BDA0-FAED24F3D88F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "TemplateMethodPattern\TemplateMethodPattern.csproj", "{0F9DA033-A5B0-4393-BD7A-6DEBA486771D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethodPattern", "TemplateMethodPattern\TemplateMethodPattern.csproj", "{0F9DA033-A5B0-4393-BD7A-6DEBA486771D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveAbaxrekruttering", "OppgaveAbaxrekruttering\OppgaveAbaxrekruttering.csproj", "{0C00D4BD-E6F7-447B-BEF9-5637D748DD4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0F9DA033-A5B0-4393-BD7A-6DEBA486771D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9DA033-A5B0-4393-BD7A-6DEBA486771D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9DA033-A5B0-4393-BD7A-6DEBA486771D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C00D4BD-E6F7-447B-BEF9-5637D748DD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C00D4BD-E6F7-447B-BEF9-5637D748DD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C00D4BD-E6F7-447B-BEF9-5637D748DD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C00D4BD-E6F7-447B-BEF9-5637D748DD4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
